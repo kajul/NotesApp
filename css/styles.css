@@ -1,0 +1,21 @@
+.container{
+    margin:0 auto;
+}
+
+.navigation_bar{
+    width:100%;
+    height:30%; 
+    background-color: black;
+    color: azure;
+   
+}
+#searchBar{
+    margin-right:70%;
+    width:40%;
+}
+
+.Notes{
+    height:150px;
+    width:18%;
+    border:1px solid blue;
+}
